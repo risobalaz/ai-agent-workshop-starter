@@ -1,0 +1,1 @@
+# Symphony Core Configuration\n\n## Project Slug: search-endpoint\n\n## Automation Level: medium\n\n## Date: 2025-06-04\n\n## Notes: Initial configuration for the symphony project.
